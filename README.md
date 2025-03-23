@@ -1,18 +1,18 @@
-## Hi there! 👋 I'm Durai Murugan  
+## Hi there! 👋🏻 I'm Durai Murugan  
 
 **Aspiring Data Analyst** |  Data Enthusiast |  Passionate about turning raw data into meaningful insights  
 
 <img align="right" width="350" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🔍 Exploring Data Science, Business Intelligence, and Analytics  
-- 📊 Skilled in **Python, SQL, Power BI, Tableau, Excel**  
-- 📚 Lifelong Learner | Enthusiastic about Data Storytelling  
+-  Exploring Data Science, Business Intelligence, and Analytics  
+-  Skilled in **Python, SQL, Power BI, Tableau, Excel**  
+-  Lifelong Learner | Enthusiastic about Data Storytelling  
 
 ---
 
 ### **Tech Stack & Tools**  
 
- 💻**Languages & Libraries**   
+ **Languages & Libraries**   
 
 <p align="left">
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
@@ -24,13 +24,13 @@
 </p>
 
 
-📊 **BI & Data Visualization**  
+ **BI & Data Visualization**  
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 
-⚙ **Tools & Platforms**  
+ **Tools & Platforms**  
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
@@ -40,7 +40,7 @@
 
 ---
 
-### **📈 GitHub Stats**  
+###    GitHub Stats  
 
 ![Durai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Durai-Murugan-DA&theme=radical&show_icons=true&hide=issues,contribs) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Durai-Murugan-DA&layout=compact&theme=radical)  
